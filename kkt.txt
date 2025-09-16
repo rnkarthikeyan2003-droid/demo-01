@@ -1,1 +1,2 @@
-karthikeyan R N
+karthikeyan R N 
+aws restart
